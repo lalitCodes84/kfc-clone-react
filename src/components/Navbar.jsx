@@ -12,7 +12,7 @@ function Navbar() {
         </div>
         <img
           className="w-32 my-5"
-          src="src\assets\images\kfc-text-logo.svg"
+          src="assets\images\kfc-text-logo.svg"
           alt=""
         />
       </div>
@@ -55,13 +55,13 @@ function Navbar() {
       <div className="flex items-center px-4 m-auto">
         <img
           className="w-5 hover:cursor-pointer"
-          src="src\assets\images\kfc-user-sign-icon.svg"
+          src="assets\images\kfc-user-sign-icon.svg"
           alt=""
         />
         <span className="text-[1vw] mx-2 opacity-20">|</span>
         <img
           className="w-5 hover:cursor-pointer"
-          src="src\assets\images\kfc-kart-icon.svg"
+          src="assets\images\kfc-kart-icon.svg"
           alt=""
         />
         &nbsp;
