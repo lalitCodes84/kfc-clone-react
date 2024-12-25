@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lalitCodes84.github.io//kfc-clone-react",
   "name": "kfc-clone-react",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
